@@ -1,4 +1,4 @@
-# dlf2020
+# Translating spoken language to 3D video of sign skeletal pose of American Sign Language(ASL)
 The goal of the project is to use deep neural network to translate spoken language to American SignLanguage (ASL) in the form of continuous 3D skeletal poses. For a given English word, we will be outputting a stream of skeletal poses (x, y, and z coordinates) representing ASL signs for the upper body which includes the torso, arms, hands and facial key points
 
 ## Setup
